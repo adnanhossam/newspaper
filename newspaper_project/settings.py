@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 CORS_ALLOWED_ORIGINS = True
-CSRF_TRUSTED_ORIGINS = ['http://*.vaza.dev']
+CSRF_TRUSTED_ORIGINS = ['https://*.adnan.vaza.dev']
 
 
 
